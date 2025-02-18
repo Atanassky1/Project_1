@@ -8,8 +8,10 @@
 </head>
 <style>
 /* Write styles here :) */
+body{
+text-align:center;
 h1{
-    color:greeen;
+    color:red;
 }
 </style>
 <body>
